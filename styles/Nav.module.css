@@ -1,8 +1,9 @@
 .nav {
+  font-weight: bold;
   height: 50px;
   padding: 10px;
-  background: #000;
-  color: #fff;
+  background: dimgray;
+  color: white;
   display: flex;
   align-items: center;
   justify-content: flex-start;
